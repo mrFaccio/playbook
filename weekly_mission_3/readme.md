@@ -1,1 +1,7 @@
 # Weekly Mission 3
+
+Proyectos desarrollados en la semana 3:
+
+| Proyecto | Práctica | Link al repo |
+| ------------- |:-------------:| -----:|
+|`my_launchx_app`|1|[Link al repo](https://github.com/mrFaccio/my_launchx_app)|
