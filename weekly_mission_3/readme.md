@@ -6,4 +6,4 @@ Proyectos desarrollados en la semana 3:
 | ------------- |:-------------:| -----:|
 |`my_launchx_app`|1|[Link al repo](https://github.com/mrFaccio/my_launchx_app)|
 |`spiderverse`|2|[Link al repo](https://github.com/mrFaccio/spiderverse)|
-|`twitter` 3, 4, 5 [Link al repo](https://github.com/mrFaccio/twitter)|
+|`twitter`|3, 4, 5|[Link al repo](https://github.com/mrFaccio/twitter)|
